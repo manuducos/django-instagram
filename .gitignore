@@ -1,0 +1,4 @@
+env_vars.sh
+important.txt
+venv/
+__pycache__/
